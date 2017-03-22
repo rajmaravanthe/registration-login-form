@@ -1,0 +1,58 @@
+header {
+    background-color: #292a2b;
+    height: 50px;
+}
+main {
+    background-color: #E3DDE5;
+    height: 500px;
+}
+h1, span {
+    color: #1c3151;
+}
+h3 {
+    color: grey;
+}
+.inline {
+    display: inline-block;
+    height: 230px;
+    width: 350px;
+    padding: 5px;
+}
+.login {
+    color: white;
+    background-color:  #1c3151;
+}
+input:not(.remember) {
+    padding: 5px;
+    margin: 5px;
+    width: 250px;
+}
+.login h3 {
+    color: white !important;
+}
+.register input {
+    border: 2px solid red;
+}
+#login {
+    border: 1px solid yellow;
+    padding: 3px 14px 3px 14px;;
+    margin-left: 81px;
+    background-color: #1c3151;
+    color: white;
+}
+#register {
+    border: 2px solid #1c3151;
+    padding: 3px 14px 3px 14px;;
+    margin: 10px 0px 0px 193px;
+    color: #1c3151;
+}
+.register {
+    float: left;
+}
+.login a {
+    padding: 3px 14px 3px 14px;;
+    margin-left: 192px;
+    color: white;
+    text-decoration: underline;
+    font-size: 9px;
+}
